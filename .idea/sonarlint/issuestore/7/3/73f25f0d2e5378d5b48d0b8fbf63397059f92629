@@ -1,0 +1,187 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(şñ–Úùÿÿÿÿ8å«ªŠª1
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯á>8âŠÏ°ª1
+w
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬•Éø8æ«ªŠª1
+|
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(âé­ìøÿÿÿÿ8“úÕ°ª1
+n
+java:S1192®"KDefine a constant instead of duplicating this literal " in list: " 3 times.(Òğà¬üÿÿÿÿ8è«ªŠª1
+p
+java:S1192Æ"RDefine a constant instead of duplicating this literal "test with Strings" 5 times.(Ñå8è«ªŠª1
+p
+java:S1192]"NDefine a constant instead of duplicating this literal "invalid index" 8 times.(®Ìöºùÿÿÿÿ8è«ªŠª1
+t
+java:S1192ç"VDefine a constant instead of duplicating this literal "**********TEST FAILED" 3 times.(ÏÃô8è«ªŠª1
+“
+java:S1192­"uDefine a constant instead of duplicating this literal "size=10; capacity=10;	[1, 8, 3, 4, 5, 9, 7, 3, 4, 2]" 5 times.(ÀØÍÏ8è«ªŠª1
+z
+java:S1192e"XDefine a constant instead of duplicating this literal "size=0; capacity=10;	[]" 5 times.(ÄÖÄúÿÿÿÿ8è«ªŠª1
+y
+java:S1192ë"VDefine a constant instead of duplicating this literal "remove from non-empty" 4 times.(Úß–¾øÿÿÿÿ8è«ªŠª1
+7
+java:S1220""Move this file to a named package.8î«ªŠª1
+M
+java:S1659"0Declare "testingExtraCredit" on a separate line.(™Ã©å8Ş¬ªŠª1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ô´ı…ûÿÿÿÿ8ä¬ªŠª1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–Æº¥ùÿÿÿÿ8â¬ªŠª1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ½àîøÿÿÿÿ8â¬ªŠª1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(‡úıÅ8å¬ªŠª1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(áâûÄşÿÿÿÿ8å¬ªŠª1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(È à8å¬ªŠª1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ª¥‰¯şÿÿÿÿ8å¬ªŠª1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(”¤õ™ùÿÿÿÿ8æ¬ªŠª1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(‡ëæç8æ¬ªŠª1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(²ŠÚö8æ¬ªŠª1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(§õªˆşÿÿÿÿ8æ¬ªŠª1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ğ±ãıûÿÿÿÿ8æ¬ªŠª1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÚÂâ8ç¬ªŠª1
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(ÔŞ¦ö8æ¬ªŠª1
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(ÚÂâ8ç¬ªŠª1
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(öƒ¿Æûÿÿÿÿ8ç¬ªŠª1
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ŞÕóñ8ç¬ªŠª1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ãÊØ®8è¬ªŠª1
+W
+java:S2479E":Remove the non-escaped \u0009 character from this literal.(‘µ³8è¬ªŠª1
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(™şÉ§şÿÿÿÿ8é¬ªŠª1
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(­²‚ı8ê¬ªŠª1
+\
+java:S2479e":Remove the non-escaped \u0009 character from this literal.(ÄÖÄúÿÿÿÿ8é¬ªŠª1
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(¦ßæ‡8ë¬ªŠª1
+\
+java:S2479u":Remove the non-escaped \u0009 character from this literal.(ÄÖÄúÿÿÿÿ8ê¬ªŠª1
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(ûÎŞşÿÿÿÿ8í¬ªŠª1
+W	java:S125|"<This block of commented-out lines of code should be removed.(íº‚78ë¬ªŠª1
+]
+java:S2479":Remove the non-escaped \u0009 character from this literal.(àÀ“Íûÿÿÿÿ8ë¬ªŠª1
+X
+java:S2479†":Remove the non-escaped \u0009 character from this literal.(Æ½ûì8ì¬ªŠª1
+X
+java:S2479‹":Remove the non-escaped \u0009 character from this literal.(™ùÖ©8í¬ªŠª1
+X
+java:S2479":Remove the non-escaped \u0009 character from this literal.(™ùÖ©8í¬ªŠª1
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(­²‚ı8î¬ªŠª1
+]
+java:S2479–":Remove the non-escaped \u0009 character from this literal.(ÄÖÄúÿÿÿÿ8î¬ªŠª1
+V	java:S106™"9Replace this use of System.out or System.err by a logger.(€ø–˜8ğ¬ªŠª1
+X	java:S125"<This block of commented-out lines of code should be removed.(íº‚78î¬ªŠª1
+]
+java:S2479£":Remove the non-escaped \u0009 character from this literal.(Ô§£Øÿÿÿÿÿ8ï¬ªŠª1
+]
+java:S2479¨":Remove the non-escaped \u0009 character from this literal.(Å¸§Õüÿÿÿÿ8ï¬ªŠª1
+X
+java:S2479­":Remove the non-escaped \u0009 character from this literal.(ÀØÍÏ8ï¬ªŠª1
+X
+java:S2479±":Remove the non-escaped \u0009 character from this literal.(ÀØÍÏ8ğ¬ªŠª1
+[	java:S106´"9Replace this use of System.out or System.err by a logger.(¡”Ø¬úÿÿÿÿ8ò¬ªŠª1
+X
+java:S2479Á":Remove the non-escaped \u0009 character from this literal.(ÀØÍÏ8ñ¬ªŠª1
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(ôşÄûÿÿÿÿ8ô¬ªŠª1
+X
+java:S2479Ó":Remove the non-escaped \u0009 character from this literal.(ÀØÍÏ8ó¬ªŠª1
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ùî’Ûÿÿÿÿÿ8ö¬ªŠª1
+X
+java:S2479ß":Remove the non-escaped \u0009 character from this literal.(ÀØÍÏ8õ¬ªŠª1
+[	java:S106ã"9Replace this use of System.out or System.err by a logger.(çòÖ¨ıÿÿÿÿ8ü¬ªŠª1
+^	java:S125è"<This block of commented-out lines of code should be removed.(ğ”ï¹úÿÿÿÿ8÷¬ªŠª1
+X
+java:S2479ì":Remove the non-escaped \u0009 character from this literal.(Ÿ íó8÷¬ªŠª1
+]
+java:S2479ï":Remove the non-escaped \u0009 character from this literal.(ó©áúÿÿÿÿ8÷¬ªŠª1
+]
+java:S2479ò":Remove the non-escaped \u0009 character from this literal.(ÑÊ›Ïúÿÿÿÿ8ø¬ªŠª1
+W
+java:S2479ö":Remove the non-escaped \u0009 character from this literal.(€öÅE8ù¬ªŠª1
+]
+java:S2479ü":Remove the non-escaped \u0009 character from this literal.(ÄÖÄúÿÿÿÿ8ù¬ªŠª1
+]
+java:S2479":Remove the non-escaped \u0009 character from this literal.(ÄÖÄúÿÿÿÿ8ú¬ªŠª1
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(©œĞ¬şÿÿÿÿ8ÿ¬ªŠª1
+]
+java:S2479œ":Remove the non-escaped \u0009 character from this literal.(äİ˜»ıÿÿÿÿ8ı¬ªŠª1
+X
+java:S2479Ÿ":Remove the non-escaped \u0009 character from this literal.(Ê¡ŸŒ8ı¬ªŠª1
+X
+java:S2479¢":Remove the non-escaped \u0009 character from this literal.(…ÑÑ‡8ş¬ªŠª1
+X
+java:S2479¥":Remove the non-escaped \u0009 character from this literal.(øÈÍ¨8ş¬ªŠª1
+]
+java:S2479¨":Remove the non-escaped \u0009 character from this literal.(îë¸ëıÿÿÿÿ8ş¬ªŠª1
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(™şÉ§şÿÿÿÿ8€­ªŠª1
+V	java:S106Á"9Replace this use of System.out or System.err by a logger.(’ø˜8„­ªŠª1
+X
+java:S2479È":Remove the non-escaped \u0009 character from this literal.(Âï•«8­ªŠª1
+C
+java:S2129É" Remove this "String" constructor(«ÂÖºşÿÿÿÿ8ƒ­ªŠª1
+C
+java:S2129Ê" Remove this "String" constructor(ØÔ³úÿÿÿÿ8ƒ­ªŠª1
+>
+java:S2129Ë" Remove this "String" constructor(ˆİ›¬8„­ªŠª1
+V	java:S106Ü"9Replace this use of System.out or System.err by a logger.(ˆÈïö8…­ªŠª1
+V	java:S106İ"9Replace this use of System.out or System.err by a logger.(Æ¿ù³8†­ªŠª1
+[	java:S106à"9Replace this use of System.out or System.err by a logger.(Óö’éüÿÿÿÿ8‡­ªŠª1
+V	java:S106á"9Replace this use of System.out or System.err by a logger.(–Ó“û8‡­ªŠª1
+J
+java:S1125ã"'Remove the unnecessary boolean literal.(·ìËïûÿÿÿÿ8‡­ªŠª1
+E
+java:S1125ä"'Remove the unnecessary boolean literal.(ÁÍ±¼8‡­ªŠª1
+V	java:S106ç"9Replace this use of System.out or System.err by a logger.(ÏÃô8ˆ­ªŠª1
+V	java:S106ê"9Replace this use of System.out or System.err by a logger.(Ì•€Ê8ˆ­ªŠª1
+[	java:S106ë"9Replace this use of System.out or System.err by a logger.(ğ¸ìûÿÿÿÿ8ˆ­ªŠª1
+V	java:S106î"9Replace this use of System.out or System.err by a logger.(ÏÃô8‰­ªŠª1
+U	java:S106ò"9Replace this use of System.out or System.err by a logger.(ùÊûb8‰­ªŠª1
+[	java:S106ó"9Replace this use of System.out or System.err by a logger.(Ãƒ¨‹ùÿÿÿÿ8‰­ªŠª1
+V	java:S106ö"9Replace this use of System.out or System.err by a logger.(ÏÃô8Š­ªŠª1
+[	java:S106ş"9Replace this use of System.out or System.err by a logger.(œéÇîûÿÿÿÿ8‹­ªŠª1
+u
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ß£şÿÿÿÿ8Š­ªŠª1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µÿ€8‹­ªŠª1
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(êØ¡Ùûÿÿÿÿ8Œ­ªŠª1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ßò¦78Œ­ªŠª1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Õ£’Ê8Œ­ªŠª1
+J
+java:S1125’"'Remove the unnecessary boolean literal.(æ®ä“úÿÿÿÿ8Œ­ªŠª1
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(§¾Òí8Œ­ªŠª1
+V	java:S106•"9Replace this use of System.out or System.err by a logger.(ÌÍœ8­ªŠª1
+J
+java:S1125–"'Remove the unnecessary boolean literal.(ÑùØûûÿÿÿÿ8Œ­ªŠª1
+[	java:S106›"9Replace this use of System.out or System.err by a logger.(Ä¬å¤ıÿÿÿÿ8­ªŠª1
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(ºÔÑìıÿÿÿÿ8­ªŠª1
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(äŸÄ½úÿÿÿÿ8­ªŠª1
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(Òğà¬üÿÿÿÿ8­ªŠª1
+V	java:S106¯"9Replace this use of System.out or System.err by a logger.(òåÚË8­ªŠª1
+V	java:S106°"9Replace this use of System.out or System.err by a logger.(á××ä8­ªŠª1
+V	java:S106³"9Replace this use of System.out or System.err by a logger.(úÁğú8‘­ªŠª1
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(Öæî©ÿÿÿÿÿ8‘­ªŠª1
+U	java:S106Ä"9Replace this use of System.out or System.err by a logger.(ã«‡,8‘­ªŠª1
+V	java:S106Å"9Replace this use of System.out or System.err by a logger.(•áĞ8‘­ªŠª1
+V	java:S106É"9Replace this use of System.out or System.err by a logger.(î—”â8’­ªŠª1
+V	java:S106Ê"9Replace this use of System.out or System.err by a logger.(«ĞÌŸ8’­ªŠª1
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(ÏÎ”øÿÿÿÿ8“­ªŠª1
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(—Öùçûÿÿÿÿ8“­ªŠª1
+V	java:S106×"9Replace this use of System.out or System.err by a logger.(¹ ¾ß8“­ªŠª1
+[	java:S106Ø"9Replace this use of System.out or System.err by a logger.(¥˜È€şÿÿÿÿ8”­ªŠª1
+V	java:S106Ü"9Replace this use of System.out or System.err by a logger.(Ç’Ÿœ8”­ªŠª1
+V	java:S106ß"9Replace this use of System.out or System.err by a logger.(Å·¦8–­ªŠª1
+P
+java:S1659õ"-Declare "actualAfterSize" on a separate line.(—­ÉÄøÿÿÿÿ8–­ªŠª1
+V	java:S106æ"9Replace this use of System.out or System.err by a logger.(Õ¡Ê¨8–­ªŠª1
+[	java:S106ç"9Replace this use of System.out or System.err by a logger.(†ŒÏùÿÿÿÿ8—­ªŠª1
+V	java:S106ò"9Replace this use of System.out or System.err by a logger.(àìİş8—­ªŠª1
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(‡Ò.8—­ªŠª1
+U	java:S106û"9Replace this use of System.out or System.err by a logger.(«‡üQ8˜­ªŠª1
+V	java:S106ü"9Replace this use of System.out or System.err by a logger.(›™‰Ù8™­ªŠª1
+k
+java:S1871‚"MThis branch's code block is the same as the block for the branch on line 511.(ñµ˜«8˜­ªŠª1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(àÁ‹¶ùÿÿÿÿ8š­ªŠª1
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(àÁ‹¶ùÿÿÿÿ8á«Šª1
+o
+java:S2786‡"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(•‚ƒu8š­ªŠª1
+X
+java:S1161‰":Add the "@Override" annotation above this method signature(Á»›ê8›­ªŠª1
+u
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ó¯éÛıÿÿÿÿ8›­ªŠª1
+X
+java:S1161":Add the "@Override" annotation above this method signature(Á»›ê8œ­ªŠª1
